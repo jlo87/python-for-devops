@@ -12,6 +12,9 @@ Python DevOps Work
 * Create development environment that is cloud-based:
 
 ### Colab Notebook
+
+* This is an example of how to use [Colab](https://github.com/jlo87/python-for-devops/blob/main/python_9_22.ipynb)
+
 ### Github Codespaces
 ### AWS CloudShell
 ### AWS Cloud9
