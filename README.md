@@ -16,6 +16,17 @@ Python DevOps Work
 * This is an example of how to use [Colab](https://github.com/jlo87/python-for-devops/blob/main/python_9_22.ipynb)
 
 ### Github Codespaces
+
+Build out python project scaffold:
+
+* Makefile
+* requirements.txt
+* test_library.py
+* python_library
+* Dockerfile
+* command-line-tool
+* Microservice
+
 ### AWS CloudShell
 ### AWS Cloud9
 
