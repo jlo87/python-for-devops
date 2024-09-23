@@ -1,3 +1,4 @@
+[![Test Multiple Python Versions](https://github.com/jlo87/python-for-devops/actions/workflows/main.yml/badge.svg)](https://github.com/jlo87/python-for-devops/actions/workflows/main.yml)
 # python-for-devops
 Python DevOps Work
 
