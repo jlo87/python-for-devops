@@ -27,6 +27,8 @@ Build out python project scaffold:
 * command-line-tool
 * Microservice
 
+1. Create a virtual environment
+
 ### AWS CloudShell
 ### AWS Cloud9
 
