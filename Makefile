@@ -4,3 +4,6 @@ install:
 
 lint:
 	pylint --disable=R,C *.py devopslib
+
+test:
+	python -m pytest -vvv --cov=devopslib test_*.py
