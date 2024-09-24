@@ -5,6 +5,7 @@ def fruit():
     fruits = ["apple", "cherry", "strawberry"]
     return choices(fruits)[0]
 
+
 def meal(beverage):
     my_fruit = fruit()
 
@@ -16,6 +17,7 @@ def meal(beverage):
 
     alternate_meal = f"Your meal is a steak and {beverage}"
     return alternate_meal
+
 
 # Using below to verify pylint works
 # var = 1
